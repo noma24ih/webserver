@@ -1,24 +1,52 @@
- [
-        {
-            "score": "10",
-            "alias": "AAA",
-            "location": "Sweden"
-        },
-     
-        {
-            "score": "9",
-            "alias": "BBB",
-            "location": "Swed"
-        },
-           
-     {
-            "score": "8",
-            "alias": "BBB",
-            "location": "Swedenwer"
-        },   
-     {
-            "score": "7",
-            "alias": "CCC",
-            "location": "Swwereden"
-        }
-    ]
+[
+{
+"score":"10",
+"alias":"AAA",
+"location":"Sweden"
+},
+{
+"score":"9",
+"alias":"BBB",
+"location":"Finland"
+},
+{
+"score":"8",
+"alias":"CCC",
+"location":"China"
+},
+{
+"score":"7",
+"alias":"DDD",
+"location":"USA"
+},
+{
+"score":"6",
+"alias":"EEE",
+"location":"Nigeria"
+},
+{
+"score":"5",
+"alias":"FFF",
+"location":"USA"
+},
+{
+"score":"5",
+"alias":"GGG",
+"location":"Libanon"
+},
+{
+"score":"4",
+"alias":"HHH",
+"location":"Sweden"
+},
+{
+"score":"4",
+"alias":"III",
+"location":"Abu Dabi"
+},
+{
+"score":"4",
+"alias":"JJJ",
+"location":"Island"
+}
+]
