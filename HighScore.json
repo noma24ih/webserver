@@ -1,23 +1,24 @@
-{
-    "Body": [
+ [
         {
             "score": "10",
             "alias": "AAA",
             "location": "Sweden"
         },
+     
         {
             "score": "9",
             "alias": "BBB",
             "location": "Swed"
         },
-              {
+           
+     {
             "score": "8",
             "alias": "BBB",
             "location": "Swedenwer"
-        },        {
+        },   
+     {
             "score": "7",
             "alias": "CCC",
             "location": "Swwereden"
         }
     ]
-}
